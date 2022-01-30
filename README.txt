@@ -6,8 +6,7 @@ Python Part is within Web-Api-Classification directory: Consists of the python f
 Steps to Run the code:
 
 
-1. Open Pycharm
+1. Open any IDE of your choice (PyCharm preferred).
 2. Name the project as test
-3. Extract Assignment4_python.zip and load it
-4. Make sure the csv file is present.
-5. Run the application
+3. Make sure the csv file is present.
+4. Run the application
